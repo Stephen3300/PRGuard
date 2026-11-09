@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="周衡 功能正确性评审员">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#D9F2E8"/><stop offset="1" stop-color="#A7D9C5"/></linearGradient></defs>
+  <circle cx="96" cy="96" r="94" fill="url(#bg)"/>
+  <path d="M27 184c6-34 31-52 69-52s63 18 69 52" fill="#245E50"/>
+  <path d="M69 136l27 24 27-24 13 48H56z" fill="#F5F7F4"/>
+  <path d="M58 72c0-36 17-52 40-52 26 0 41 20 39 52l-8 26H64z" fill="#273A36"/>
+  <ellipse cx="96" cy="83" rx="38" ry="45" fill="#E8B997"/>
+  <path d="M59 75c-2-33 15-52 40-52 23 0 36 16 39 42-14-1-23-8-29-19-9 14-26 24-50 29z" fill="#273A36"/>
+  <path d="M76 81h8m24 0h8" stroke="#293934" stroke-width="4" stroke-linecap="round"/>
+  <path id="mouth" d="M86 103q10 6 20 0" fill="none" stroke="#975B4B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 161l-6 8 6 7 6-7z" fill="#5BB995"/>
+</svg>

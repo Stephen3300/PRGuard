@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="赵验 测试与回归评审员">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#DCEFF0"/><stop offset="1" stop-color="#A9D5D5"/></linearGradient></defs>
+  <circle cx="96" cy="96" r="94" fill="url(#bg)"/>
+  <path d="M24 184c8-36 33-53 72-53s64 17 72 53" fill="#315C62"/>
+  <path d="M67 137l29 25 29-25 14 47H53z" fill="#F2F6F3"/>
+  <path d="M57 70c2-31 16-49 39-49 27 0 41 18 42 50l-9 26H65z" fill="#342F2B"/>
+  <ellipse cx="96" cy="84" rx="37" ry="44" fill="#C99475"/>
+  <path d="M59 69c5-30 18-45 38-45 22 0 35 14 41 41-14-3-25-10-32-21-10 14-27 22-47 25z" fill="#342F2B"/>
+  <circle cx="81" cy="84" r="9" fill="none" stroke="#34484A" stroke-width="3"/><circle cx="111" cy="84" r="9" fill="none" stroke="#34484A" stroke-width="3"/><path d="M90 84h12" stroke="#34484A" stroke-width="3"/>
+  <path id="mouth" d="M86 105q10 4 20 0" fill="none" stroke="#7F4D43" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 156l17 7-17 20-17-20z" fill="#F0C65A"/><path d="M89 164l5 5 10-11" fill="none" stroke="#315C62" stroke-width="3" stroke-linecap="round"/>
+</svg>

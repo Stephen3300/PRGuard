@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="陈澄 需求讨论评审员">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FCE8D7"/><stop offset="1" stop-color="#F4C6A7"/></linearGradient></defs>
+  <circle cx="96" cy="96" r="94" fill="url(#bg)"/>
+  <path d="M25 184c8-36 32-53 71-53s63 17 71 53" fill="#A45F43"/>
+  <path d="M67 137l29 25 29-25 14 47H53z" fill="#FFF8F1"/>
+  <path d="M52 74c0-35 18-53 45-53 30 0 46 22 43 59l-6 59H58z" fill="#4B342D"/>
+  <ellipse cx="96" cy="85" rx="36" ry="43" fill="#E5B593"/>
+  <path d="M58 73c1-31 17-48 39-48 26 0 40 18 42 48-13-2-24-10-31-22-12 14-28 21-50 22z" fill="#4B342D"/>
+  <path d="M76 84h7m26 0h7" stroke="#453631" stroke-width="4" stroke-linecap="round"/>
+  <path id="mouth" d="M86 105q10 7 20 0" fill="none" stroke="#9B5A4B" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="136" cy="50" r="7" fill="#F0C65A"/><path d="M136 57v15" stroke="#F0C65A" stroke-width="3"/>
+</svg>

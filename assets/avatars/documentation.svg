@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="许知 文档与 API 评审员">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#F0E5F7"/><stop offset="1" stop-color="#D7C2E8"/></linearGradient></defs>
+  <circle cx="96" cy="96" r="94" fill="url(#bg)"/>
+  <path d="M24 184c8-36 33-53 72-53s64 17 72 53" fill="#624B79"/>
+  <path d="M67 137l29 25 29-25 14 47H53z" fill="#FAF7FC"/>
+  <path d="M54 78c-2-35 15-57 43-57 31 0 45 25 42 58l-5 46H58z" fill="#3C303A"/>
+  <ellipse cx="96" cy="84" rx="36" ry="43" fill="#F0C7A6"/>
+  <path d="M58 76c-1-32 16-51 39-51 28 0 41 19 42 48-12-3-24-12-31-23-11 16-27 24-50 26z" fill="#3C303A"/>
+  <path d="M68 84h22m16 0h22" stroke="#5A4861" stroke-width="3"/><circle cx="80" cy="84" r="10" fill="none" stroke="#5A4861" stroke-width="3"/><circle cx="112" cy="84" r="10" fill="none" stroke="#5A4861" stroke-width="3"/><path d="M90 84h12" stroke="#5A4861" stroke-width="3"/>
+  <path id="mouth" d="M87 104q9 5 18 0" fill="none" stroke="#A3645C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 160l-7 8 7 8 7-8z" fill="#D5A84C"/>
+</svg>

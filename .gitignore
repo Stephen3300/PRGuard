@@ -1,0 +1,16 @@
+# Local Python environment and secrets
+.venv/
+.runtime/
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+
+# Downloaded model/data and generated training artifacts
+models/
+data/raw/
+data/processed/
+outputs/
+.codex-build/
+*.sqlite3
+*.log
